@@ -1,0 +1,10 @@
+/Users/fabio/Projects/RaptorMath/RaptorMath/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/fabio/Projects/RaptorMath/RaptorMath/bin/Debug/RaptorMath.exe.mdb
+/Users/fabio/Projects/RaptorMath/RaptorMath/bin/Debug/RaptorMath.exe
+/Users/fabio/Projects/RaptorMath/RaptorMath/obj/x86/Debug/RaptorMath.exe
+/Users/fabio/Projects/RaptorMath/RaptorMath/obj/x86/Debug/RaptorMath.exe.mdb
+/Users/fabio/Google Drive/USU/CS2412/hw1/RaptorMath/RaptorMath/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/fabio/Google Drive/USU/CS2412/hw1/RaptorMath/RaptorMath/obj/x86/Debug/RaptorMath.exe
+/Users/fabio/Google Drive/USU/CS2412/hw1/RaptorMath/RaptorMath/obj/x86/Debug/RaptorMath.exe.mdb
+/Users/fabio/Google Drive/USU/CS2412/hw1/RaptorMath/RaptorMath/bin/Debug/RaptorMath.exe.mdb
+/Users/fabio/Google Drive/USU/CS2412/hw1/RaptorMath/RaptorMath/bin/Debug/RaptorMath.exe

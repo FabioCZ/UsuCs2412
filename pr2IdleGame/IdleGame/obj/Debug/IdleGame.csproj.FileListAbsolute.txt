@@ -1,0 +1,18 @@
+D:\GDrive\USU\CS2412\pr2IdleGame\IdleGame\bin\Debug\IdleGame.exe.config
+D:\GDrive\USU\CS2412\pr2IdleGame\IdleGame\bin\Debug\IdleGame.exe
+D:\GDrive\USU\CS2412\pr2IdleGame\IdleGame\bin\Debug\IdleGame.pdb
+D:\GDrive\USU\CS2412\pr2IdleGame\IdleGame\obj\Debug\IdleGame.csprojResolveAssemblyReference.cache
+D:\GDrive\USU\CS2412\pr2IdleGame\IdleGame\obj\Debug\IdleGame.Form1.resources
+D:\GDrive\USU\CS2412\pr2IdleGame\IdleGame\obj\Debug\IdleGame.Properties.Resources.resources
+D:\GDrive\USU\CS2412\pr2IdleGame\IdleGame\obj\Debug\IdleGame.csproj.GenerateResource.Cache
+D:\GDrive\USU\CS2412\pr2IdleGame\IdleGame\obj\Debug\IdleGame.exe
+D:\GDrive\USU\CS2412\pr2IdleGame\IdleGame\obj\Debug\IdleGame.pdb
+C:\Users\Fabio\Google Drive\USU\CS2412\pr2IdleGame\IdleGame\bin\Debug\IdleGame.exe.config
+C:\Users\Fabio\Google Drive\USU\CS2412\pr2IdleGame\IdleGame\obj\Debug\IdleGame.exe
+C:\Users\Fabio\Google Drive\USU\CS2412\pr2IdleGame\IdleGame\obj\Debug\IdleGame.pdb
+C:\Users\Fabio\Google Drive\USU\CS2412\pr2IdleGame\IdleGame\bin\Debug\IdleGame.exe
+C:\Users\Fabio\Google Drive\USU\CS2412\pr2IdleGame\IdleGame\bin\Debug\IdleGame.pdb
+C:\Users\Fabio\Google Drive\USU\CS2412\pr2IdleGame\IdleGame\obj\Debug\IdleGame.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Google Drive\USU\CS2412\pr2IdleGame\IdleGame\obj\Debug\IdleGame.Form1.resources
+C:\Users\Fabio\Google Drive\USU\CS2412\pr2IdleGame\IdleGame\obj\Debug\IdleGame.Properties.Resources.resources
+C:\Users\Fabio\Google Drive\USU\CS2412\pr2IdleGame\IdleGame\obj\Debug\IdleGame.csproj.GenerateResource.Cache

@@ -1,0 +1,7 @@
+/Users/fabio/Google Drive/USU/CS2412/hw3/hw3/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/fabio/Google Drive/USU/CS2412/hw3/hw3/obj/Debug/hw3.Form1.resources
+/Users/fabio/Google Drive/USU/CS2412/hw3/hw3/obj/Debug/hw3.Properties.Resources.resources
+/Users/fabio/Google Drive/USU/CS2412/hw3/hw3/bin/Debug/hw3.exe.mdb
+/Users/fabio/Google Drive/USU/CS2412/hw3/hw3/bin/Debug/hw3.exe
+/Users/fabio/Google Drive/USU/CS2412/hw3/hw3/obj/Debug/hw3.exe
+/Users/fabio/Google Drive/USU/CS2412/hw3/hw3/obj/Debug/hw3.exe.mdb

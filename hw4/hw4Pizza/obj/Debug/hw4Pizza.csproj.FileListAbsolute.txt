@@ -1,0 +1,9 @@
+D:\GDrive\USU\CS2412\hw4\hw4Pizza\bin\Debug\hw4Pizza.exe.config
+D:\GDrive\USU\CS2412\hw4\hw4Pizza\bin\Debug\hw4Pizza.exe
+D:\GDrive\USU\CS2412\hw4\hw4Pizza\bin\Debug\hw4Pizza.pdb
+D:\GDrive\USU\CS2412\hw4\hw4Pizza\obj\Debug\hw4Pizza.csprojResolveAssemblyReference.cache
+D:\GDrive\USU\CS2412\hw4\hw4Pizza\obj\Debug\hw4Pizza.Form1.resources
+D:\GDrive\USU\CS2412\hw4\hw4Pizza\obj\Debug\hw4Pizza.Properties.Resources.resources
+D:\GDrive\USU\CS2412\hw4\hw4Pizza\obj\Debug\hw4Pizza.csproj.GenerateResource.Cache
+D:\GDrive\USU\CS2412\hw4\hw4Pizza\obj\Debug\hw4Pizza.exe
+D:\GDrive\USU\CS2412\hw4\hw4Pizza\obj\Debug\hw4Pizza.pdb

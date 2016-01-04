@@ -1,0 +1,9 @@
+D:\GDrive\USU\CS2412\FirstGUI\hw3\hw3\bin\Debug\hw3.exe.config
+D:\GDrive\USU\CS2412\FirstGUI\hw3\hw3\bin\Debug\hw3.exe
+D:\GDrive\USU\CS2412\FirstGUI\hw3\hw3\bin\Debug\hw3.pdb
+D:\GDrive\USU\CS2412\FirstGUI\hw3\hw3\obj\Debug\hw3.csprojResolveAssemblyReference.cache
+D:\GDrive\USU\CS2412\FirstGUI\hw3\hw3\obj\Debug\hw3.Form1.resources
+D:\GDrive\USU\CS2412\FirstGUI\hw3\hw3\obj\Debug\hw3.Properties.Resources.resources
+D:\GDrive\USU\CS2412\FirstGUI\hw3\hw3\obj\Debug\hw3.csproj.GenerateResource.Cache
+D:\GDrive\USU\CS2412\FirstGUI\hw3\hw3\obj\Debug\hw3.exe
+D:\GDrive\USU\CS2412\FirstGUI\hw3\hw3\obj\Debug\hw3.pdb

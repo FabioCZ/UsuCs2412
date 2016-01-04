@@ -1,0 +1,5 @@
+D:\GDrive\USU\CS2412\hw1\RaptorMath\RaptorMath\obj\x86\Debug\RaptorMath.exe
+D:\GDrive\USU\CS2412\hw1\RaptorMath\RaptorMath\bin\Debug\RaptorMath.exe
+D:\GDrive\USU\CS2412\hw1\RaptorMath\RaptorMath\bin\Debug\RaptorMath.pdb
+D:\GDrive\USU\CS2412\hw1\RaptorMath\RaptorMath\obj\x86\Debug\RaptorMath.csprojResolveAssemblyReference.cache
+D:\GDrive\USU\CS2412\hw1\RaptorMath\RaptorMath\obj\x86\Debug\RaptorMath.pdb

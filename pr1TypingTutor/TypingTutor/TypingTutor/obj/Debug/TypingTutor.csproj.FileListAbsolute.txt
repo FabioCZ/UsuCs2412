@@ -1,0 +1,18 @@
+C:\Users\Fabio\Google Drive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\bin\Debug\TypingTutor.exe.config
+C:\Users\Fabio\Google Drive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\bin\Debug\TypingTutor.exe
+C:\Users\Fabio\Google Drive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\bin\Debug\TypingTutor.pdb
+C:\Users\Fabio\Google Drive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\obj\Debug\TypingTutor.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Google Drive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\obj\Debug\TypingTutor.Form1.resources
+C:\Users\Fabio\Google Drive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\obj\Debug\TypingTutor.Properties.Resources.resources
+C:\Users\Fabio\Google Drive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\obj\Debug\TypingTutor.csproj.GenerateResource.Cache
+C:\Users\Fabio\Google Drive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\obj\Debug\TypingTutor.exe
+C:\Users\Fabio\Google Drive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\obj\Debug\TypingTutor.pdb
+D:\GDrive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\bin\Debug\TypingTutor.exe.config
+D:\GDrive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\obj\Debug\TypingTutor.exe
+D:\GDrive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\obj\Debug\TypingTutor.pdb
+D:\GDrive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\bin\Debug\TypingTutor.exe
+D:\GDrive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\bin\Debug\TypingTutor.pdb
+D:\GDrive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\obj\Debug\TypingTutor.csprojResolveAssemblyReference.cache
+D:\GDrive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\obj\Debug\TypingTutor.Form1.resources
+D:\GDrive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\obj\Debug\TypingTutor.Properties.Resources.resources
+D:\GDrive\USU\CS2412\pr1TypingTutor\TypingTutor\TypingTutor\obj\Debug\TypingTutor.csproj.GenerateResource.Cache

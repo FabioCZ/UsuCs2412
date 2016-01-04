@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowClass", "ShowClass\ShowClass.csproj", "{BE5C49BE-18A0-4C02-8F2C-30A84BA18F73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE5C49BE-18A0-4C02-8F2C-30A84BA18F73}.Debug|x86.ActiveCfg = Debug|x86
+		{BE5C49BE-18A0-4C02-8F2C-30A84BA18F73}.Debug|x86.Build.0 = Debug|x86
+		{BE5C49BE-18A0-4C02-8F2C-30A84BA18F73}.Release|x86.ActiveCfg = Release|x86
+		{BE5C49BE-18A0-4C02-8F2C-30A84BA18F73}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = ShowClass\ShowClass.csproj
+	EndGlobalSection
+EndGlobal

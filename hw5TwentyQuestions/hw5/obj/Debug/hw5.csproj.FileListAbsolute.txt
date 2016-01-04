@@ -1,0 +1,10 @@
+D:\GDrive\USU\CS2412\hw5TwentyQuestions\hw6\bin\Debug\hw5.exe.config
+D:\GDrive\USU\CS2412\hw5TwentyQuestions\hw5\bin\Debug\hw5.exe.config
+D:\GDrive\USU\CS2412\hw5TwentyQuestions\hw5\bin\Debug\hw5.exe
+D:\GDrive\USU\CS2412\hw5TwentyQuestions\hw5\bin\Debug\hw5.pdb
+D:\GDrive\USU\CS2412\hw5TwentyQuestions\hw5\obj\Debug\hw5.csprojResolveAssemblyReference.cache
+D:\GDrive\USU\CS2412\hw5TwentyQuestions\hw5\obj\Debug\hw6.Form1.resources
+D:\GDrive\USU\CS2412\hw5TwentyQuestions\hw5\obj\Debug\hw5.Properties.Resources.resources
+D:\GDrive\USU\CS2412\hw5TwentyQuestions\hw5\obj\Debug\hw5.csproj.GenerateResource.Cache
+D:\GDrive\USU\CS2412\hw5TwentyQuestions\hw5\obj\Debug\hw5.exe
+D:\GDrive\USU\CS2412\hw5TwentyQuestions\hw5\obj\Debug\hw5.pdb

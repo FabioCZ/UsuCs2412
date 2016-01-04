@@ -1,0 +1,10 @@
+/Users/fabio/Projects/ShowClass/ShowClass/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/fabio/Projects/ShowClass/ShowClass/bin/Debug/ShowClass.exe.mdb
+/Users/fabio/Projects/ShowClass/ShowClass/bin/Debug/ShowClass.exe
+/Users/fabio/Projects/ShowClass/ShowClass/obj/x86/Debug/ShowClass.exe
+/Users/fabio/Projects/ShowClass/ShowClass/obj/x86/Debug/ShowClass.exe.mdb
+/Users/fabio/Google Drive/USU/CS2412/hw2/ShowClass/ShowClass/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/fabio/Google Drive/USU/CS2412/hw2/ShowClass/ShowClass/bin/Debug/ShowClass.exe.mdb
+/Users/fabio/Google Drive/USU/CS2412/hw2/ShowClass/ShowClass/bin/Debug/ShowClass.exe
+/Users/fabio/Google Drive/USU/CS2412/hw2/ShowClass/ShowClass/obj/x86/Debug/ShowClass.exe
+/Users/fabio/Google Drive/USU/CS2412/hw2/ShowClass/ShowClass/obj/x86/Debug/ShowClass.exe.mdb
